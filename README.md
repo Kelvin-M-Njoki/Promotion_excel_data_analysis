@@ -18,15 +18,8 @@ This document contains an Excel file encompassing comprehensive data cleaning, a
    - Data Visualizations: Visual representations of the key metrics and trends discovered during the analysis.
    - Recommendations: Actionable insights and recommendations based on the analysis findings.
 
-## Usage
-1. Open the Data.xlsx file using Microsoft Excel or any compatible spreadsheet software.
-2. Review the data cleaning steps performed and the analysis conducted on each sheet.
-3. Explore the visualizations and insights derived from the data analysis.
-4. Open the Analysis_Report.pptx file to view a summary of the findings and recommendations.
+
 
 ## Contributors
-- Kelvin Mwenda
-- kmwendanjoki@gmail.com
+ Kelvin Mwenda -  kmwendanjoki@gmail.com
 
-## Feedback
-We welcome any feedback or suggestions for improvement. Please feel free to reach out to the contributors listed above with your comments.
